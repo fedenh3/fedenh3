@@ -13,6 +13,8 @@ Desarrollador web con base en Argentina 🇦🇷. Apasionado por construir cosas
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ---
 
@@ -38,7 +40,7 @@ Desarrollado con **JavaScript vanilla**.
 
 ## 📚 Formación
 
-- 📖 **Tecnicatura en Ciencia de Datos e Inteligencia Artificial** - IFTS N° 24  
+- 📖 **Tecnicatura en Ciencia de Datos e Inteligencia Artificial** *(en curso)*  
 - 🎓 **Desarrollo Web** — Coderhouse  
 - 🎓 **JavaScript** — Coderhouse  
 - 🎓 **React JS** — Coderhouse  
@@ -53,5 +55,14 @@ Desarrollado con **JavaScript vanilla**.
 
 ---
 
+## 📊 Mis estadísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fedenh3&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fedenh3&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
 *"La manera de comenzar es asumir que cierto tiempo del día va a estar dedicado a la planificación previa."*  
 — del blog Europa en invierno ❄
+
