@@ -18,19 +18,19 @@ Desarrollador web con base en Argentina 🇦🇷. Apasionado por construir cosas
 
 ## 🚀 Proyectos destacados
 
-### 🏐 [CAVA Stats](https://cava-stats.streamlit.app/)
+### 🏐 CAVA Stats &nbsp;·&nbsp; [Ver código](https://github.com/fedenh3/proyecto-cava)
 App de estadísticas deportivas para el equipo de vóley CAVA.  
 Construida con **Python + Streamlit + Supabase**. Permite visualizar rendimiento de jugadores, partidos y temporadas en tiempo real.
 
 ---
 
-### ✈️ [Europa en invierno ❄](https://fedenh3.github.io/hurtadoFin)
+### ✈️ Europa en invierno ❄ &nbsp;·&nbsp; [Ver sitio](https://fedenh3.github.io/hurtadoFin) · [Ver código](https://github.com/fedenh3/hurtadoFin)
 Blog de viajes sobre un recorrido por Europa en invierno.  
 Desarrollado con **HTML, SCSS y CSS**. Incluye secciones de destinos (Italia, Austria, Alemania, Rep. Checa, Holanda), consejos y contacto.
 
 ---
 
-### 🛒 [Tienda de fotos de viaje](https://fedenh3.github.io/Hurtado-Final-JavaScript/)
+### 🛒 Tienda de fotos de viaje &nbsp;·&nbsp; [Ver sitio](https://fedenh3.github.io/Hurtado-Final-JavaScript) · [Ver código](https://github.com/fedenh3/Hurtado-Final-JavaScript)
 E-commerce de fotografías personales de viaje con carrito de compras funcional.  
 Desarrollado con **JavaScript vanilla**.
 
