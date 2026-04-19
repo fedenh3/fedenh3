@@ -38,7 +38,7 @@ Desarrollado con **JavaScript vanilla**.
 
 ## 📚 Formación
 
-- 📖 **Tecnicatura en Ciencia de Datos e Inteligencia Artificial** *(en curso)*  
+- 📖 **Tecnicatura en Ciencia de Datos e Inteligencia Artificial** - IFTS N° 24  
 - 🎓 **Desarrollo Web** — Coderhouse  
 - 🎓 **JavaScript** — Coderhouse  
 - 🎓 **React JS** — Coderhouse  
