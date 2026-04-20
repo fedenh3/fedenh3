@@ -31,15 +31,9 @@ Construida con **Python + Streamlit + Supabase**. Permite visualizar rendimiento
 
 ---
 
-### ✈️ Europa en invierno ❄ &nbsp;·&nbsp; [Ver sitio](https://fedenh3.github.io/hurtadoFin) · [Ver código](https://github.com/fedenh3/hurtadoFin)
-Blog de viajes sobre un recorrido por Europa en invierno.  
-Desarrollado con **HTML, SCSS y CSS**. Incluye secciones de destinos (Italia, Austria, Alemania, Rep. Checa, Holanda), consejos y contacto.
-
----
-
-### 🛒 Tienda de fotos de viaje &nbsp;·&nbsp; [Ver sitio](https://fedenh3.github.io/Hurtado-Final-JavaScript) · [Ver código](https://github.com/fedenh3/Hurtado-Final-JavaScript)
-E-commerce de fotografías personales de viaje con carrito de compras funcional.  
-Desarrollado con **JavaScript vanilla**.
+### 🌌 Astro Chart App &nbsp;·&nbsp; [Ver código](https://github.com/fedenh3/astro_chart_app)
+Aplicación **full-stack** para el cálculo y visualización de cartas natales, tránsitos y sinastrías.  
+Arquitectura profesional con **Docker**, API REST en **FastAPI**, frontend en **Next.js + TypeScript + Tailwind**, base de datos **PostgreSQL** y librería de cálculo astronómico real (Swiss Ephemeris).
 
 ---
 
@@ -50,18 +44,25 @@ Built with **Python + Django + SQLite + Pillow**.
 
 ---
 
-### 🌌 Astro Chart App &nbsp;·&nbsp; [Ver código](https://github.com/fedenh3/astro_chart_app)
-Aplicación **full-stack** para el cálculo y visualización de cartas natales, tránsitos y sinastrías.  
-Arquitectura profesional con **Docker**, API REST en **FastAPI**, frontend en **Next.js + TypeScript + Tailwind**, base de datos **PostgreSQL** y librería de cálculo astronómico real (Swiss Ephemeris).
-
----
-
 ### ✨ AstroVida Landing Page &nbsp;·&nbsp; [Ver sitio](https://fedenh3.github.io/astro-landing-page) · [Ver código](https://github.com/fedenh3/astro-landing-page)
 Landing page profesional para un servicio de astrología personalizada.  
 Diseño moderno con **glassmorphism**, animaciones, carrusel de testimonios, FAQ, formulario de contacto y botón flotante de WhatsApp.  
 Desarrollada con **HTML + CSS + JavaScript vanilla**.
 
 ---
+
+### 🛒 Tienda de fotos de viaje &nbsp;·&nbsp; [Ver sitio](https://fedenh3.github.io/Hurtado-Final-JavaScript) · [Ver código](https://github.com/fedenh3/Hurtado-Final-JavaScript)
+E-commerce de fotografías personales de viaje con carrito de compras funcional.  
+Desarrollado con **JavaScript vanilla**.
+
+---
+
+### ✈️ Europa en invierno ❄ &nbsp;·&nbsp; [Ver sitio](https://fedenh3.github.io/hurtadoFin) · [Ver código](https://github.com/fedenh3/hurtadoFin)
+Blog de viajes sobre un recorrido por Europa en invierno.  
+Desarrollado con **HTML, SCSS y CSS**. Incluye secciones de destinos (Italia, Austria, Alemania, Rep. Checa, Holanda), consejos y contacto.
+
+---
+
 
 ## 📚 Formación
 
@@ -89,4 +90,4 @@ Desarrollada con **HTML + CSS + JavaScript vanilla**.
 ---
 
 *"La manera de comenzar es asumir que cierto tiempo del día va a estar dedicado a la planificación previa."*  
-— del blog Europa en invierno ❄
+— del blog Europa en invierno ❄ - Mi primer proyecto personal.
