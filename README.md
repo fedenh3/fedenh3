@@ -15,6 +15,7 @@ Desarrollador web con base en Argentina 🇦🇷. Apasionado por construir cosas
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ---
 
@@ -35,6 +36,26 @@ Desarrollado con **HTML, SCSS y CSS**. Incluye secciones de destinos (Italia, Au
 ### 🛒 Tienda de fotos de viaje &nbsp;·&nbsp; [Ver sitio](https://fedenh3.github.io/Hurtado-Final-JavaScript) · [Ver código](https://github.com/fedenh3/Hurtado-Final-JavaScript)
 E-commerce de fotografías personales de viaje con carrito de compras funcional.  
 Desarrollado con **JavaScript vanilla**.
+
+---
+
+### 🔮 Sirianmart &nbsp;·&nbsp; [Ver código](https://github.com/fedenh3/fire-moon)
+Tienda online desarrollada con **Django 5** para una emprendedora de astrología y tarot.  
+Incluye catálogo de servicios, cursos, productos con carrito de compras, testimonios, formulario de contacto y sistema de usuarios.  
+Built with **Python + Django + SQLite + Pillow**.
+
+---
+
+### 🌌 Astro Chart App &nbsp;·&nbsp; [Ver código](https://github.com/fedenh3/astro_chart_app)
+Aplicación **full-stack** para el cálculo y visualización de cartas natales, tránsitos y sinastrías.  
+Arquitectura profesional con **Docker**, API REST en **FastAPI**, frontend en **Next.js + TypeScript + Tailwind**, base de datos **PostgreSQL** y librería de cálculo astronómico real (Swiss Ephemeris).
+
+---
+
+### ✨ AstroVida Landing Page &nbsp;·&nbsp; [Ver sitio](https://fedenh3.github.io/astro-landing-page) · [Ver código](https://github.com/fedenh3/astro-landing-page)
+Landing page profesional para un servicio de astrología personalizada.  
+Diseño moderno con **glassmorphism**, animaciones, carrusel de testimonios, FAQ, formulario de contacto y botón flotante de WhatsApp.  
+Desarrollada con **HTML + CSS + JavaScript vanilla**.
 
 ---
 
@@ -65,4 +86,3 @@ Desarrollado con **JavaScript vanilla**.
 
 *"La manera de comenzar es asumir que cierto tiempo del día va a estar dedicado a la planificación previa."*  
 — del blog Europa en invierno ❄
-
