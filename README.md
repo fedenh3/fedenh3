@@ -25,8 +25,8 @@ Desarrollador web con base en Argentina 🇦🇷. Apasionado por construir cosas
 
 ## 🚀 Proyectos destacados
 
-### 🏐 CAVA Stats &nbsp;·&nbsp; [Ver código](https://github.com/fedenh3/proyecto-cava)
-App de estadísticas deportivas para el equipo de vóley CAVA.  
+### ⚽ CAVA Stats &nbsp;·&nbsp; [Ver código](https://github.com/fedenh3/proyecto-cava)
+App de estadísticas deportivas para el equipo de fúbol Victoriano Arenas.  
 Construida con **Python + Streamlit + Supabase**. Permite visualizar rendimiento de jugadores, partidos y temporadas en tiempo real.
 
 ---
@@ -66,7 +66,7 @@ Desarrollado con **HTML, SCSS y CSS**. Incluye secciones de destinos (Italia, Au
 
 ## 📚 Formación
 
-- 📖 **Tecnicatura en Ciencia de Datos e Inteligencia Artificial** *(en curso)*  
+- 📖 **Tecnicatura en Ciencia de Datos e Inteligencia Artificial** *(en curso)*  - IFTS N° 24
 - 🎓 **Desarrollo Web** — Coderhouse  
 - 🎓 **JavaScript** — Coderhouse  
 - 🎓 **React JS** — Coderhouse  
